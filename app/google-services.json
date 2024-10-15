@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "441634791483",
+    "project_id": "schwebsite-ae756",
+    "storage_bucket": "schwebsite-ae756.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:441634791483:android:6d9325024f18a910f53c1e",
+        "android_client_info": {
+          "package_name": "com.rhyttah.schwebsite"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCWGALvHNGOlxexJu3hiYVx_JJAzW-47jw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
